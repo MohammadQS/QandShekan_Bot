@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/QandShekan_Bot/static/css/main.e6c13ad2.css",
-    "main.js": "/QandShekan_Bot/static/js/main.34c049c3.js",
+    "main.css": "/QandShekan_Bot/static/css/main.b7d690cd.css",
+    "main.js": "/QandShekan_Bot/static/js/main.6c3d28c2.js",
     "static/js/787.77606cce.chunk.js": "/QandShekan_Bot/static/js/787.77606cce.chunk.js",
+    "static/media/iranyekan.woff": "/QandShekan_Bot/static/media/iranyekan.67f31143e304e1132bdc.woff",
     "index.html": "/QandShekan_Bot/index.html",
-    "main.e6c13ad2.css.map": "/QandShekan_Bot/static/css/main.e6c13ad2.css.map",
-    "main.34c049c3.js.map": "/QandShekan_Bot/static/js/main.34c049c3.js.map",
+    "main.b7d690cd.css.map": "/QandShekan_Bot/static/css/main.b7d690cd.css.map",
+    "main.6c3d28c2.js.map": "/QandShekan_Bot/static/js/main.6c3d28c2.js.map",
     "787.77606cce.chunk.js.map": "/QandShekan_Bot/static/js/787.77606cce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.34c049c3.js"
+    "static/css/main.b7d690cd.css",
+    "static/js/main.6c3d28c2.js"
   ]
 }
