@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/QandShekan_Bot/static/css/main.b7d690cd.css",
-    "main.js": "/QandShekan_Bot/static/js/main.d3d7f272.js",
+    "main.js": "/QandShekan_Bot/static/js/main.f55aa9dc.js",
     "static/js/787.77606cce.chunk.js": "/QandShekan_Bot/static/js/787.77606cce.chunk.js",
     "static/media/iranyekan.woff": "/QandShekan_Bot/static/media/iranyekan.67f31143e304e1132bdc.woff",
     "index.html": "/QandShekan_Bot/index.html",
     "main.b7d690cd.css.map": "/QandShekan_Bot/static/css/main.b7d690cd.css.map",
-    "main.d3d7f272.js.map": "/QandShekan_Bot/static/js/main.d3d7f272.js.map",
+    "main.f55aa9dc.js.map": "/QandShekan_Bot/static/js/main.f55aa9dc.js.map",
     "787.77606cce.chunk.js.map": "/QandShekan_Bot/static/js/787.77606cce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d690cd.css",
-    "static/js/main.d3d7f272.js"
+    "static/js/main.f55aa9dc.js"
   ]
 }
