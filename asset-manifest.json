@@ -1,16 +1,36 @@
 {
   "files": {
     "main.css": "/QandShekan_Bot/static/css/main.b7d690cd.css",
-    "main.js": "/QandShekan_Bot/static/js/main.d71ab1fb.js",
+    "main.js": "/QandShekan_Bot/static/js/main.1f98aed4.js",
+    "static/js/577.1f543657.chunk.js": "/QandShekan_Bot/static/js/577.1f543657.chunk.js",
+    "static/js/216.0d398bb0.chunk.js": "/QandShekan_Bot/static/js/216.0d398bb0.chunk.js",
+    "static/js/951.63741cdc.chunk.js": "/QandShekan_Bot/static/js/951.63741cdc.chunk.js",
+    "static/js/10.373e60bb.chunk.js": "/QandShekan_Bot/static/js/10.373e60bb.chunk.js",
     "static/js/787.77606cce.chunk.js": "/QandShekan_Bot/static/js/787.77606cce.chunk.js",
+    "static/js/409.4c4cf7f9.chunk.js": "/QandShekan_Bot/static/js/409.4c4cf7f9.chunk.js",
+    "static/js/401.f0539830.chunk.js": "/QandShekan_Bot/static/js/401.f0539830.chunk.js",
+    "static/js/970.b5a6083a.chunk.js": "/QandShekan_Bot/static/js/970.b5a6083a.chunk.js",
+    "static/js/613.d21215ac.chunk.js": "/QandShekan_Bot/static/js/613.d21215ac.chunk.js",
+    "static/js/330.f3c75b80.chunk.js": "/QandShekan_Bot/static/js/330.f3c75b80.chunk.js",
+    "static/js/700.a95231bc.chunk.js": "/QandShekan_Bot/static/js/700.a95231bc.chunk.js",
     "static/media/iranyekan.woff": "/QandShekan_Bot/static/media/iranyekan.67f31143e304e1132bdc.woff",
     "index.html": "/QandShekan_Bot/index.html",
     "main.b7d690cd.css.map": "/QandShekan_Bot/static/css/main.b7d690cd.css.map",
-    "main.d71ab1fb.js.map": "/QandShekan_Bot/static/js/main.d71ab1fb.js.map",
-    "787.77606cce.chunk.js.map": "/QandShekan_Bot/static/js/787.77606cce.chunk.js.map"
+    "main.1f98aed4.js.map": "/QandShekan_Bot/static/js/main.1f98aed4.js.map",
+    "577.1f543657.chunk.js.map": "/QandShekan_Bot/static/js/577.1f543657.chunk.js.map",
+    "216.0d398bb0.chunk.js.map": "/QandShekan_Bot/static/js/216.0d398bb0.chunk.js.map",
+    "951.63741cdc.chunk.js.map": "/QandShekan_Bot/static/js/951.63741cdc.chunk.js.map",
+    "10.373e60bb.chunk.js.map": "/QandShekan_Bot/static/js/10.373e60bb.chunk.js.map",
+    "787.77606cce.chunk.js.map": "/QandShekan_Bot/static/js/787.77606cce.chunk.js.map",
+    "409.4c4cf7f9.chunk.js.map": "/QandShekan_Bot/static/js/409.4c4cf7f9.chunk.js.map",
+    "401.f0539830.chunk.js.map": "/QandShekan_Bot/static/js/401.f0539830.chunk.js.map",
+    "970.b5a6083a.chunk.js.map": "/QandShekan_Bot/static/js/970.b5a6083a.chunk.js.map",
+    "613.d21215ac.chunk.js.map": "/QandShekan_Bot/static/js/613.d21215ac.chunk.js.map",
+    "330.f3c75b80.chunk.js.map": "/QandShekan_Bot/static/js/330.f3c75b80.chunk.js.map",
+    "700.a95231bc.chunk.js.map": "/QandShekan_Bot/static/js/700.a95231bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d690cd.css",
-    "static/js/main.d71ab1fb.js"
+    "static/js/main.1f98aed4.js"
   ]
 }
